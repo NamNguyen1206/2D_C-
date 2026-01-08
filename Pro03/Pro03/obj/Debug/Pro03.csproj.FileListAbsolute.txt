@@ -1,0 +1,7 @@
+D:\New folder\Pro03\Pro03\obj\Debug\Pro03.csproj.AssemblyReference.cache
+D:\New folder\Pro03\Pro03\obj\Debug\Pro03.csproj.CoreCompileInputs.cache
+D:\New folder\Pro03\Pro03\bin\Debug\Pro03.exe.config
+D:\New folder\Pro03\Pro03\bin\Debug\Pro03.exe
+D:\New folder\Pro03\Pro03\bin\Debug\Pro03.pdb
+D:\New folder\Pro03\Pro03\obj\Debug\Pro03.exe
+D:\New folder\Pro03\Pro03\obj\Debug\Pro03.pdb
